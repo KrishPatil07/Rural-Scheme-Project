@@ -1,0 +1,25 @@
+Commands to run :
+    
+
+Terminal 1 (backend):
+    cd backend
+    .\venv\Scripts\Activate.ps1 
+    uvicorn main:app --reload --host 192.168.0.104 --port 8000
+                                    (Your IPv4 Add)
+
+
+You should see:
+    INFO:     Uvicorn running on http://192.168.0.104:8000 (Press CTRL+C to quit)
+    INFO:     Application startup complete.
+Test in browser: open http://192.168.0.104:8000/api/schemes → should return your scheme JSON.
+
+
+Terminal 2 (frontend): open a new terminal:
+    cd public
+    python -m http.server 5500 OR 
+    python -m http.server 5500 --bind 192.168.0.104 (for local network access)
+
+
+You should see:
+    Serving HTTP on 0.0.0.0 port 5500 (http://192.168.0.104:5500/) ...
+Test in browser: open http://192.168.0.104:5500

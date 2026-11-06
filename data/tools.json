@@ -1,0 +1,52 @@
+{
+  "tools": [
+    {
+      "id": "upi",
+      "category": "payments",
+      "icon": "payment",
+      "translation_key": "tool.upi",
+      "website": "https://www.npci.org.in/what-we-do/upi/product-overview",
+      "last_updated": "2025-11-01"
+    },
+    {
+      "id": "digilocker",
+      "category": "documents",
+      "icon": "document",
+      "translation_key": "tool.digilocker",
+      "website": "https://www.digilocker.gov.in",
+      "last_updated": "2025-10-15"
+    },
+    {
+      "id": "umang",
+      "category": "services",
+      "icon": "service",
+      "translation_key": "tool.umang",
+      "website": "https://web.umang.gov.in",
+      "last_updated": "2025-10-20"
+    },
+    {
+      "id": "udyam",
+      "category": "registration",
+      "icon": "certificate",
+      "translation_key": "tool.udyam",
+      "website": "https://udyamregistration.gov.in",
+      "last_updated": "2025-11-05"
+    },
+    {
+      "id": "enam",
+      "category": "agriculture",
+      "icon": "market",
+      "translation_key": "tool.enam",
+      "website": "https://www.enam.gov.in",
+      "last_updated": "2025-09-30"
+    },
+    {
+      "id": "whatsapp-business",
+      "category": "communication",
+      "icon": "chat",
+      "translation_key": "tool.whatsapp",
+      "website": "https://business.whatsapp.com",
+      "last_updated": "2025-10-01"
+    }
+  ]
+}

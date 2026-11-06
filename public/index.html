@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="mr" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <meta name="theme-color" content="#1a5f2a">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="stylesheet" href="/css/style.css">
+  <title>Maha Udyam Saathi</title>
+</head>
+<body>
+  <header id="app-header">
+    <h1 data-i18n="app.title">Maha Udyam Saathi</h1>
+    <div id="offline-badge" class="hidden" data-i18n="status.offline">You are offline</div>
+  </header>
+
+  <nav id="main-nav">
+    <button data-nav="home" data-i18n="nav.home">Home</button>
+    <button data-nav="schemes" data-i18n="nav.schemes">Schemes</button>
+    <button data-nav="tools" data-i18n="nav.tools">Digital Tools</button>
+    <button data-nav="settings" data-i18n="nav.settings">Settings</button>
+  </nav>
+
+  <main id="content">
+    <!-- Dynamically rendered -->
+  </main>
+
+
+  <script src="/js/db.js"></script>
+  <script src="/js/i18n.js"></script>
+  <script src="/js/sync.js"></script>
+  <script src="/js/audio.js"></script>
+  <script src="/js/app.js"></script>
+</body>
+</html>

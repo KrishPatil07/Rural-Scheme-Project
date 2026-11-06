@@ -1,0 +1,156 @@
+{
+  "schemes": [
+    {
+      "id": "cmegp-2025",
+      "category": "financial",
+      "icon": "money",
+      "translation_key": "scheme.cmegp",
+      "apply_url": "https://maha-cmegp.org.in/homepage",
+      "last_updated": "2025-11-20"
+    },
+    {
+      "id": "pmegp-2025",
+      "category": "financial",
+      "icon": "money",
+      "translation_key": "scheme.pmegp",
+      "apply_url": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp",
+      "last_updated": "2025-12-01"
+    },
+    {
+      "id": "annasaheb-patil-2025",
+      "category": "financial",
+      "icon": "money",
+      "translation_key": "scheme.annasaheb",
+      "apply_url": "https://mahaswayamrojgar.maharashtra.gov.in/forms/home.aspx",
+      "last_updated": "2025-09-01"
+    },
+    {
+      "id": "lakhpati-didi-2025",
+      "category": "women",
+      "icon": "women",
+      "translation_key": "scheme.lakhpati",
+      "apply_url": "https://umed.in",
+      "last_updated": "2025-06-15"
+    },
+    {
+      "id": "miips-2025",
+      "category": "msme",
+      "icon": "industry",
+      "translation_key": "scheme.miips",
+      "apply_url": "https://di.maharashtra.gov.in",
+      "last_updated": "2025-08-03"
+    },
+    {
+      "id": "nssc-2025",
+      "category": "sc-st",
+      "icon": "community",
+      "translation_key": "scheme.nssc",
+      "apply_url": "https://www.nssch.in",
+      "last_updated": "2025-07-15"
+    },
+    {
+      "id": "pmmy-2026",
+      "category": "financial",
+      "icon": "money",
+      "translation_key": "scheme.pmmy",
+      "apply_url": "https://www.mudra.org.in",
+      "last_updated": "2026-10-11"
+    },
+    {
+      "id": "standup-india-2026",
+      "category": "financial",
+      "icon": "money",
+      "translation_key": "scheme.standup",
+      "apply_url": "https://www.standupmitra.in",
+      "last_updated": "2026-10-11"
+    },
+    {
+      "id": "cgtmse-2026",
+      "category": "msme",
+      "icon": "industry",
+      "translation_key": "scheme.cgtmse",
+      "apply_url": "https://www.cgtmse.in",
+      "last_updated": "2026-10-11"
+    },
+    {
+      "id": "psb-loans-59-2026",
+      "category": "msme",
+      "icon": "industry",
+      "translation_key": "scheme.psb59",
+      "apply_url": "https://www.psbloansin59minutes.com",
+      "last_updated": "2026-10-11"
+    },
+    {
+      "id": "udyam-registration-2026",
+      "category": "msme",
+      "icon": "industry",
+      "translation_key": "scheme.udyam",
+      "apply_url": "https://udyamregistration.gov.in",
+      "last_updated": "2026-10-11"
+    },
+    {
+      "id": "pmfme-2026",
+      "category": "msme",
+      "icon": "industry",
+      "translation_key": "scheme.pmfme",
+      "apply_url": "https://pmfme.mofpi.gov.in",
+      "last_updated": "2026-10-11"
+    },
+    {
+      "id": "startup-seed-fund-2026",
+      "category": "msme",
+      "icon": "industry",
+      "translation_key": "scheme.seedfund",
+      "apply_url": "https://seedfund.startupindia.gov.in",
+      "last_updated": "2026-10-11"
+    },
+    {
+      "id": "maha-startup-msins-2026",
+      "category": "msme",
+      "icon": "industry",
+      "translation_key": "scheme.msins",
+      "apply_url": "https://www.msins.in",
+      "last_updated": "2026-10-11"
+    },
+    {
+      "id": "pm-vishwakarma-2026",
+      "category": "financial",
+      "icon": "money",
+      "translation_key": "scheme.vishwakarma",
+      "apply_url": "https://pmvishwakarma.gov.in",
+      "last_updated": "2026-10-11"
+    },
+    {
+      "id": "pm-svanidhi-2026",
+      "category": "financial",
+      "icon": "money",
+      "translation_key": "scheme.svanidhi",
+      "apply_url": "https://pmsvanidhi.mohua.gov.in",
+      "last_updated": "2026-10-11"
+    },
+    {
+      "id": "nskfdc-2026",
+      "category": "sc-st",
+      "icon": "community",
+      "translation_key": "scheme.nskfdc",
+      "apply_url": "https://nskfdc.nic.in",
+      "last_updated": "2026-10-11"
+    },
+    {
+      "id": "nbcfdc-2026",
+      "category": "financial",
+      "icon": "community",
+      "translation_key": "scheme.nbcfdc",
+      "apply_url": "https://nbcfdc.gov.in",
+      "last_updated": "2026-10-11"
+    },
+    {
+      "id": "nmdfc-2026",
+      "category": "financial",
+      "icon": "community",
+      "translation_key": "scheme.nmdfc",
+      "apply_url": "https://nmdfc.org",
+      "last_updated": "2026-10-11"
+    }
+  ]
+}
